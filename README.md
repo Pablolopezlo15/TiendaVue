@@ -18,7 +18,7 @@ Filtrado por Categorías: Encuentra fácilmente productos específicos utilizand
 
 ![Foto](https://i.imgur.com/gft9rBm.png)
 
-Detalles del Producto: Obtén información detallada sobre cada producto, incluyendo su descripción, precio y disponibilidad.
+Detalles del Producto: Obtén información detallada sobre cada producto, incluyendo su descripción, precio y valoración.
 
 ![Foto](https://i.imgur.com/55lkxIi.png)
 
